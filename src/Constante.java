@@ -15,8 +15,6 @@ public class Constante {
 
             System.out.println("Ошибка");
         }
-        //Data processing
-
         if (x == y)
             System.out.println("Данное значение имеется в константе X = " + y);
         else if (x == z)
